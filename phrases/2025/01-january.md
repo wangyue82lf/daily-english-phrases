@@ -1,1 +1,41 @@
-IyBKYW51YXJ5IDIwMjUgLSBEYWlseSBFbmdsaXNoIFBocmFzZXMKCj4g6K6w5b2VIDIwMjUg5bm0IDEg5pyI5a2m5Lmg55qE6Iux6K+t55+t6K+tCgojIyBXZWVrIDEgKEphbiAxLTcpCgojIyMgMjAyNS0wMS0yNzogR2V0IHRoZSBiYWxsIHJvbGxpbmcKCioqTWVhbmluZyoqOiDlvIDlp4vlgZrmn5DkuovvvIzlkK/liqjmn5DkuKrpobnnm67miJbmtLvliqgKCioqRXhhbXBsZSoqOiAKLSBMZXQncyBnZXQgdGhlIGJhbGwgcm9sbGluZyBvbiB0aGlzIHByb2plY3QuCi0gSSB0aGluayB3ZSBzaG91bGQgZ2V0IHRoZSBiYWxsIHJvbGxpbmcgYmVmb3JlIGl0J3MgdG9vIGxhdGUuCgoqKk5vdGVzKio6IOi/meS4quefreivreW9ouixoeWcsOavlOWWu+aOqOWKqOS4gOS4queQg+W8gOWni+a7muWKqO+8jOWvk+aEj+W8gOWni+S4gOmhueW3peS9nOaIlua0u+WKqOOAggoKLS0tCgo8IS0tIOWcqOS4i+aWuea3u+WKoOaWsOeahOefreivrSAtLT4KCg==
+# 📅 2025年1月 - English Phrases
+
+> Monthly learning log for January 2025
+
+---
+
+## 📝 Daily Records
+
+### 2025-01-28: Get the ball rolling
+
+**Meaning**: 开始做某事；启动某个项目或活动  
+*(To start something happening; to begin a project or activity)*
+
+**Examples**:
+
+- Let's **get the ball rolling** on this project.
+- I think we should **get the ball rolling** before it's too late.
+- She **got the ball rolling** by introducing herself to the team.
+
+**Notes**: 
+- 常用于商务和日常对话中
+- 类似表达：kick off, start the ball rolling
+- 反义：put the ball in someone's court (把决定权交给某人)
+
+---
+
+## 📊 本月统计
+
+| 项目 | 数量 |
+|------|------|
+| 学习短语 | 1 |
+| 复习次数 | 0 |
+| 掌握程度 | ⭐⭐⭐ |
+
+---
+
+## 🎯 本月目标
+
+- [x] 开始记录短语
+- [ ] 每天学习 1 个短语
+- [ ] 月末复习所有短语

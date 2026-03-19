@@ -1,1 +1,66 @@
-IyBXZWVrbHkgUmV2aWV3IC0gRW5nbGlzaCBQaHJhc2VzCgo+IOavj+WRqOWkjeS5oOW3qeWbuuacrOWRqOWtpuS5oOeahOefreivrQoKIyMgV2VlayA0IChKYW4gMjcgLSBGZWIgMiwgMjAyNSkKCiMjIyDwn5OdIOacrOWRqOWtpuS5oOeahOefreivrQoKfCBEYXRlIHwgUGhyYXNlIHwgTWVhbmluZyB8IE1hc3RlcnkgfAp8LS0tLS0tfC0tLS0tLS0tfC0tLS0tLS0tLXwtLS0tLS0tLS18CnwgSmFuIDI3IHwgR2V0IHRoZSBiYWxsIHJvbGxpbmcgfCDlvIDlp4vlgZrmn5DkuosgfCDirZDirZDirZAgfAoKIyMjIPCfjq8g5pys5ZGo55uu5qCH5a6M5oiQ5oOF5Ya1CgotIFsgXSDmr4/lpKnlrabkuaAgMSDkuKrmlrDnn63or60KLSBbIF0g5aSN5Lmg5LiK5ZGo55+t6K+tCi0gWyBdIOWcqOWvueivnS/lhpnkvZzkuK3kvb/nlKjmlrDnn63or60KCiMjIyDwn5KhIOS4i+WRqOiuoeWIkgoKLSDnu6fnu63mr4/lpKnlrabkuaDmlrDnn63or60KLSDph43ngrnlpI3kuaDmjozmj6HluqbkvY7nmoTnn63or60KLSDlsJ3or5XlnKjml6XluLjlr7nor53kuK3kvb/nlKgKCiMjIyDwn5OKIOe7n+iuoQoKLSDmnKzlkajmlrDlop7nn63or606IDEKLSDntK/orqHnn63or606IDEKLSDlrabkuaDlpKnmlbA6IDEKCi0tLQoK
+# 🔄 Weekly Review Template
+
+> 周复习模板 - 定期回顾巩固学习成果
+
+---
+
+## 📅 Week of [YYYY-MM-DD] to [YYYY-MM-DD]
+
+### 📝 本周学习的短语
+
+| 日期 | 短语 | 掌握程度 |
+|------|------|----------|
+| Mon | - | - |
+| Tue | - | - |
+| Wed | - | - |
+| Thu | - | - |
+| Fri | - | - |
+| Sat | - | - |
+| Sun | - | - |
+
+---
+
+### ✅ 复习心得
+
+**哪些短语已经熟练？**
+
+- 
+
+**哪些短语需要加强？**
+
+- 
+
+**本周学习总结**：
+
+---
+
+### 🔁 下周计划
+
+- [ ] 重点复习：
+- [ ] 想要学习的新短语：
+- [ ] 其他：
+
+---
+
+## 📈 长期追踪
+
+### 累计统计
+
+| 指标 | 数量 |
+|------|------|
+| 总学习短语 | 0 |
+| 总复习次数 | 0 |
+| 熟练掌握 | 0 |
+
+---
+
+## 💡 学习技巧
+
+1. **间隔复习**：使用艾宾浩斯遗忘曲线规律
+2. **造句练习**：用新短语造 3 个句子
+3. **场景联想**：将短语与实际场景联系
+4. **主动使用**：在日常对话中尝试使用
+
+---
+
+*Last updated: [YYYY-MM-DD]*

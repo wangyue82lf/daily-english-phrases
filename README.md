@@ -1,1 +1,69 @@
-IyDwn5OaIERhaWx5IEVuZ2xpc2ggUGhyYXNlcwoKPiDmr4/ml6Xoi7Hor63nn63or63lrabkuaDorrDlvZUgfCBBIHBlcnNvbmFsIGpvdXJuYWwgZm9yIGxlYXJuaW5nIEVuZ2xpc2ggcGhyYXNlcyBkYWlseQoKIyMg8J+TliBBYm91dAoK6L+Z5Liq5LuT5bqT55So5LqO6K6w5b2V5ZKM5aSN5Lmg5q+P5pel5a2m5Lmg55qE6Iux6K+t55+t6K+t77yM5biu5Yqp5o+Q5Y2H6Iux6K+t6KGo6L6+6IO95Yqb44CCCgojIyDwn5OFIFByb2dyZXNzCgp8IFllYXIgfCBUb3RhbCBQaHJhc2VzIHwgU3RhdHVzIHwKfC0tLS0tLXwtLS0tLS0tLS0tLS0tLS18LS0tLS0tLS18CnwgMjAyNSB8IDAvMzY1IHwg8J+apyBJbiBQcm9ncmVzcyB8CgojIyDwn5OCIFN0cnVjdHVyZQoKYGBgCmRhaWx5LWVuZ2xpc2gtcGhyYXNlcy8K4pSc4pSA4pSAIFJFQURNRS5tZArilJzilIDilIAgcGhyYXNlcy8K4pSCICAg4pSc4pSA4pSAIDIwMjUvCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCAwMS1qYW51YXJ5Lm1kCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCAwMi1mZWJydWFyeS5tZArilIIgICDilIIgICDilJTilIDilIAgLi4uCuKUgiAgIOKUlOKUgOKUgCAuLi4K4pSU4pSA4pSAIHJldmlldy8KICAgIOKUlOKUgOKUgCB3ZWVrbHktcmV2aWV3Lm1kCmBgYAoKIyMg8J+TnSBUZW1wbGF0ZQoK5q+P5Liq55+t6K+t55qE6K6w5b2V5qC85byP77yaCgpgYGBtYXJrZG93bgojIyMgWVlZWS1NTS1ERDogW1BocmFzZV0KCioqTWVhbmluZyoqOiBb5Lit5paH6YeK5LmJXQoKKipFeGFtcGxlKio6IAotIFvkvovlj6UgMV0KLSBb5L6L5Y+lIDJdCgoqKk5vdGVzKio6IFvlrabkuaDnrJTorrAv6K6w5b+G5oqA5benXQoKLS0tCmBgYAoKIyMg8J+OryBHb2FscwoKLSBbIF0g5q+P5aSp5a2m5Lmg6Iez5bCRIDEg5Liq5paw55+t6K+tCi0gWyBdIOavj+WRqOWkjeS5oOacrOWRqOWtpuS5oOeahOefreivrQotIFsgXSDmr4/mnIjmgLvnu5PluLjnlKjnn63or60KCiMjIPCfk4ogU3RhdHMKCi0gU3RhcnQgRGF0ZTogMjAyNi0wMy0xOQotIFRvdGFsIFBocmFzZXM6IDAKLSBTdHVkeSBTdHJlYWs6IPCflKUgMCBkYXlzCgotLS0KCipLZWVwIGxlYXJuaW5nLCBrZWVwIGdyb3dpbmchIPCfjLEqCg==
+# 📚 Daily English Phrases
+
+> 每日英语短语学习记录
+
+## 📖 项目简介
+
+这是一个用于记录和复习每日学习英语短语的仓库。每天学习一个新的英语短语，通过例句和笔记加深理解。
+
+## 📂 项目结构
+
+```
+daily-english-phrases/
+├── README.md                    # 项目说明
+├── phrases/                     # 短语记录
+│   └── 2025/
+│       └── 01-january.md        # 1月短语
+└── review/                      # 复习记录
+    └── weekly-review.md         # 周复习
+```
+
+## ✍️ 使用方法
+
+### 每日添加新短语
+
+在 `phrases/YYYY/MM-month.md` 文件中按以下格式添加：
+
+```markdown
+### YYYY-MM-DD: [短语名称]
+
+**Meaning**: [中文释义]
+
+**Examples**:
+
+- [例句 1]
+- [例句 2]
+
+**Notes**: [学习笔记]
+
+---
+```
+
+### 每周复习
+
+在 `review/weekly-review.md` 中记录复习心得。
+
+## 📋 短语模板
+
+| 日期 | 短语 | 含义 | 掌握程度 |
+|------|------|------|----------|
+| YYYY-MM-DD | phrase name | 中文含义 | ⭐⭐⭐ |
+
+## 🎯 学习目标
+
+- [ ] 每天学习 1 个新短语
+- [ ] 每周复习本周短语
+- [ ] 每月总结常用短语
+
+## 📅 进度追踪
+
+- 2025年1月: 1 个短语
+
+## 🔗 相关资源
+
+- [Cambridge Dictionary](https://dictionary.cambridge.org/)
+- [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/)
+
+---
+
+⭐ 如果这个项目对你有帮助，欢迎 Star！
